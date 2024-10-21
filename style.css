@@ -260,3 +260,78 @@
 .responsive_section_4{
     display: none;
 }
+
+/* ====================section_5 kaa css ha================= */
+.t_h{
+    width: 100%;
+    height: 1352px;
+    background-color: #e5e5e5;
+    margin-top: 30px;
+}
+.t_h_t{
+    font-size: 46px;
+    font-weight: 900;
+    padding-left: 750px;
+    padding-top: 50px;
+}
+
+.main_box{
+    display: flex;
+
+}
+.bx_t{
+    border: 1px solid black;
+    width: 376px;
+    height: 251px;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 5px;
+    background-color: white;
+}
+.bx_t h5{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.bx_t p{
+    line-height: 2;
+    /* font-style: italic; */
+    margin: 20px 0 0;
+}
+
+.main_full_box{
+    /* display: flex; */
+    margin-top: -580px;
+    margin-left: 220px;
+ 
+}
+.images img{
+    width: 721px;
+    height: 721px;
+    object-position: 2.6% 50%;
+    margin: -646px calc(((100% -  1140px) / 2)) 0 auto;
+    /* padding-right: 150px; */
+    display: flex;
+    justify-content: end;
+    /* margin-top: -56px; */
+
+}
+.color_box{
+    width: 100%;
+    height: 286px;
+    background-color:var(--background-color);
+    margin-top: 380px;
+    
+}
+.rapper_box{
+    margin-top: 304px;
+}
+.btn{
+    border-style: none none solid;
+    text-transform: uppercase;
+    font-size: 0.875rem;
+    letter-spacing: 1px;
+    margin: 20px auto 0 0;
+    padding: 0;
+}
