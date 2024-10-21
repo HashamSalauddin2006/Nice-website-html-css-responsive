@@ -282,7 +282,7 @@
 .bx_t{
     border: 1px solid black;
     width: 376px;
-    height: 251px;
+    height: 267px;
     border-radius: 30px;
     padding: 20px;
     margin: 5px;
@@ -334,4 +334,15 @@
     letter-spacing: 1px;
     margin: 20px auto 0 0;
     padding: 0;
+}
+.btn a{
+    padding: 0px 21px;
+    font-size: 15px;
+    text-transform:uppercase ;
+    border: none;
+    /* background-color: transparent; */
+    border-style:none none solid;
+    border-color: var(--color);
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif ;
 }
