@@ -217,7 +217,7 @@
         /* margin: 0; */
     }
     .main_box{
-        padding-right: 20px;
+        padding-right:15px;
     }
 
 }
@@ -312,6 +312,32 @@
 .responsive_section_4{
     display: block;
 }
+.main_box{
+    display: flex;
+    flex-direction: column;
+    margin-left: -16px;
+
+}
+.color_box{
+    width: 100%;
+    height: 637px;
+
+}
+.images img{
+    width: 511px;
+        height: 511px;
+        margin-top: -920px;
+        margin-right: calc(((100% - 540px) / 2));
+}
+.t_h_t{
+    text-align: start;
+
+}
+.t_h{
+    width: 100%;
+    height: 1687px;
+
+} 
 
     
 }
@@ -361,6 +387,29 @@
     .responsive_section_4{
         display: block;
     }
+    .images img{
+        width: 340px;
+        height: 379px;
+        margin-top: -1046px;
+        margin-right: auto;
+
+
+
+    }
+    .t_h_t {
+        text-align: start;
+        font-size: 1.875rem;
+        width: 456px;
+       
+    }
+    .rapper_box {
+        margin-top: 568px;
+        /* justify-content: center; */
+        /* display: flex; */
+
+
+    }
+
 
 
 
